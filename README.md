@@ -1,1 +1,2 @@
+Used the LCBO, Pixabay, and Spoonacular APIs to create a user-friendly site for quick & easy wine pairings.  Also displays nutritional information of food choices, making it a perfect fit for those who have a healthy lifestyle but also love food & wine!
 # FoodTracker
